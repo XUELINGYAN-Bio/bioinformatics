@@ -1,0 +1,14 @@
+gene_id	chromosome	condition	expression
+Gene001	Chr1	control	12
+Gene002	Chr1	stress	85
+Gene003	Chr2	control	43
+Gene004	Chr2	stress	120
+Gene005	Chr3	control	8
+Gene006	Chr3	stress	64
+Gene007	Chr1	control	51
+Gene008	Chr2	stress	17
+Gene009	Chr3	control	92
+Gene010	Chr1	stress	38
+Gene011	Chr2	control	73
+Gene012	Chr3	stress	105
+
